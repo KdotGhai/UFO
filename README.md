@@ -7,7 +7,7 @@ Module 11 Javascript
 ### Results
 &nbsp;&nbsp;&nbsp;We helped our client Dana in constructing an HTML page and provided a header, a short blurb about the existence of UFOs, and a Table of sightings.
 
-![]()
+![Base_html](/static/images/Base_html.png)
 
 &nbsp;&nbsp;&nbsp;&nbsp;On the website, you can observe the data from the original JavaScript data file on the right side. We added filters to sort through the data using date, city, state, country, and UFO shape. You can type in your parameters into the filter and press enter at which point you will be able to see date/city/state/country/shape/duration of the sighting and additional comments  regarding UFO sightings. For example, these are all the sightings from the data set from the state of New York.
 
