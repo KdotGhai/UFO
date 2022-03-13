@@ -11,7 +11,7 @@ Module 11 Javascript
 
 &nbsp;&nbsp;&nbsp;&nbsp;On the website, you can observe the data from the original JavaScript data file on the right side. We added filters to sort through the data using date, city, state, country, and UFO shape. You can type in your parameters into the filter and press enter at which point you will be able to see date/city/state/country/shape/duration of the sighting and additional comments  regarding UFO sightings. For example, these are all the sightings from the data set from the state of New York.
 
-![]()
+![ny_example](/static/images/ny_html_example.png)
 
 ### Summary
 &nbsp;&nbsp;&nbsp;&nbsp;Overall, we created an aesthetically pleasing visual to present the data that was given to us. One of the drawbacks of this webpage is that the filters constraint to the exact data entries from the data.js as well as, the inputs must be case sensitive. One way to overcome this could be to provide a drop-down menu upon filtering the data based on shape, all the states can be searched by doing an insensitive case search or providing it as a drop-down menu as well. Also, of the vast cities listed, it would be simpler to filter by desired state and then follow up with corresponding cities as checkboxes/drop-down menu. Another way to organize the data would be to add a filter by duration of the UFO sighting, since it is a data point that is provided in the descriptions of the data set. While providing more relevant data would make this website even more informative there are instances where it's completely irrelevant or not cleaned(there are special characters embedded in comments).
